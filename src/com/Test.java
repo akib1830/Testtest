@@ -12,6 +12,8 @@ public class Test {
 		
 		System.out.println("Test case 3 : create account");
 		
+		System.out.println("Test case 4 : delete account");
+		
 		
 
 	}
