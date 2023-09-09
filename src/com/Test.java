@@ -10,6 +10,9 @@ public class Test {
 		
 		System.out.println("Test case 2 : Login success");
 		
+		System.out.println("Test case 3 : create account");
+		
+		
 
 	}
 
